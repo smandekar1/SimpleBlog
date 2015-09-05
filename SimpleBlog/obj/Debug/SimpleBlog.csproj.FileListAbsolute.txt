@@ -31,3 +31,10 @@ c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlo
 c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.csprojResolveAssemblyReference.cache
 c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.dll
 c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.pdb
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\Antlr3.Runtime.dll
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\Newtonsoft.Json.dll
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\System.Web.Optimization.dll
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\WebGrease.dll
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\Antlr3.Runtime.pdb
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\Newtonsoft.Json.xml
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\System.Web.Optimization.xml
