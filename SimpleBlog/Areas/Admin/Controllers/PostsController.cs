@@ -5,13 +5,15 @@ using System.Web;
 using System.Web.Mvc;
 
 namespace SimpleBlog.Areas.Admin.Controllers
+    
 {
-    public class PostsController : Controller
-    {
-        // GET: Admin/Posts
-        public ActionResult Index()
+    [Authorize(Roles = "admin")]
+    public class PostsController: Controller
         {
-            return View();
-        }
+
+            public ActionResult Index()
+            {
+                return Content("Admin Posts");
+            }
     }
 }
