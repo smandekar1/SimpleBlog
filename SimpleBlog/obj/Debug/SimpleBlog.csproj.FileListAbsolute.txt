@@ -38,3 +38,6 @@ c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlo
 c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\Antlr3.Runtime.pdb
 c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\Newtonsoft.Json.xml
 c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\SimpleBlog\SimpleBlog\bin\System.Web.Optimization.xml
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\bin\FluentMigrator.dll
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\bin\FluentMigrator.pdb
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\bin\FluentMigrator.xml
