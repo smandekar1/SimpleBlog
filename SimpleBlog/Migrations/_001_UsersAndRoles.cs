@@ -14,7 +14,7 @@ namespace SimpleBlog.Migrations
         public override void Up()
         {
             Create.Table("users")
-                .WithColumn("id").AsInt32().PrimaryKey()
+                .WithColumn("id").AsInt32().Identity().PrimaryKey()
                 .WithColumn("username").AsString(128)
                 .WithColumn("email").AsCustom("VARCHAR(256)")
                 .WithColumn("password_hash").AsString(128);
