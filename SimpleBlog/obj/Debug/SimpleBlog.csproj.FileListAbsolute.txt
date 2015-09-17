@@ -46,3 +46,5 @@ C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlo
 C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.csprojResolveAssemblyReference.cache
 C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.dll
 C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.pdb
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\bin\BCrypt.Net.dll
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\SimpleBlog\SimpleBlog\bin\BCrypt.Net.xml
