@@ -4,7 +4,8 @@
 
 @using (Html.BeginForm())
 {
-    @Html.ValidationSummary()
+     @Html.AntiForgeryToken()  
+     @Html.ValidationSummary()
 
     <div class="form-group">
         @Html.LabelFor(f => f.Username)
