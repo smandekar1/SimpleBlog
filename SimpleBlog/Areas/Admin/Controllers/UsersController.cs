@@ -26,6 +26,12 @@ namespace SimpleBlog.Areas.Admin.Controllers
         {
             return View(new UsersNew
             {
+                Roles = Database.Session.Query<Role>().Select(role => new RoleCheckbox
+                {
+                    Id = role.Id,
+                    IsChecked = false,
+                    Name = role.Name
+                }).ToList()
 
             });
 
@@ -119,7 +125,7 @@ namespace SimpleBlog.Areas.Admin.Controllers
 
         }
 
-        [HttpGet, ValidateAntiForgeryToken]
+        //  [HttpPost, ValidateAntiForgeryToken] doesn't work with the javascript
         public ActionResult Delete(int id)
         {
             var user = Database.Session.Load<User>(id);
