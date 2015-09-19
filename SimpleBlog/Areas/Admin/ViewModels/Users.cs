@@ -36,6 +36,9 @@ namespace SimpleBlog.Areas.Admin.ViewModels
 
     public class UsersEdit
     {
+        public IList<RoleCheckbox> Roles { get; set; }
+
+
         [Required, MaxLength(128)]
         public string Username { get; set; }
 
