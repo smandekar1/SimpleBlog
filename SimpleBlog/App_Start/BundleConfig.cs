@@ -27,7 +27,7 @@ namespace SimpleBlog
                 .Include("~/scripts/jquery.validate.js")
                 .Include("~/scripts/jquery.validate.unobtrusive.js")
                 .Include("~/scripts/bootstrap.js")
-                .Include("~/areas/admin/scripts/forms.js"));  // capitalized
+                .Include("~/areas/admin/scripts/forms.js")); 
 
 
             bundles.Add(new ScriptBundle("~/scripts")
