@@ -134,7 +134,7 @@ namespace SimpleBlog.Areas.Admin.Controllers
         }
 
         //[HttpPost, ValidateAntiForgeryToken] doesn't work with the javascript
-        [HttpPost, ValidateAntiForgeryToken]
+        [HttpPost, ValidateAntiForgeryToken]  //, ValidateAntiForgeryToken
         public ActionResult Delete(int id)
         {
             var user = Database.Session.Load<User>(id);

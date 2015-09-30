@@ -23,7 +23,7 @@ namespace SimpleBlog
                 .Include("~/content/styles/site.css"));
 
             bundles.Add(new ScriptBundle("~/admin/scripts")
-                .Include("~/scripts/jquery-2.1.4.js")// changed from 1.8.0
+                .Include("~/scripts/jquery-2.1.4.js")// changed from 1.8.0 2.1.4
                 .Include("~/scripts/jquery.validate.js")
                 .Include("~/scripts/jquery.validate.unobtrusive.js")
                 .Include("~/scripts/bootstrap.js")
@@ -31,7 +31,7 @@ namespace SimpleBlog
 
 
             bundles.Add(new ScriptBundle("~/scripts")
-                .Include("~/scripts/jquery-2.1.4.js")// changed from   1.8.0
+                .Include("~/scripts/jquery-2.1.4.js")// changed from   1.8.0  2.1.4
                 .Include("~/scripts/jquery.validate.js")
                 .Include("~/scripts/jquery.validate.unobtrusive.js")
                 .Include("~/scripts/bootstrap.js"));
